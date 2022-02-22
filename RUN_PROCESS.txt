@@ -1,0 +1,7 @@
+normalize.py
+ - raw_32x32x32 -> raw_32x32x32_normalize
+MakeNoiseBox.py
+ - to match file name if needed
+train_noise.py
+test_noise.py
+ 
